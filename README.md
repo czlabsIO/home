@@ -13,6 +13,8 @@
 
 Welcome to Czlabs IO, a fusion of art and technology, crafting a world where the impossible becomes possible. This is not just a repository; it's a hub of innovation and creativity. Here, ideas take form, and dreams transition into reality. As a collective of innovators and artists, we harness the power of Blockchain to pioneer new horizons.
 
+**Our repository is totally private. so In order to visualize specific project please reach out to our team.**
+
 ## What We Do
 
 At Czlabs, we offer a diverse range of services to bring your visions to life. From designing a captivating landing page that echoes your artistic sensibilities to developing a sophisticated lender platform leveraging the benefits of blockchain technology, we've got you covered. Our solutions are tailored to meet your unique needs, reduce costs, improve accountability, and enhance functionality.
