@@ -1,4 +1,4 @@
-<h1 align="center">Czlabs IO: A Forge of Technology for Purpose</h1>
+<h1 align="center">czlabs IO: A Forge of Technology for Purpose</h1>
 <h2 align="center">Blockchain solutions for global Needs.</h2>
 
 
