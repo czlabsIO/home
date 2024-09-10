@@ -1,5 +1,7 @@
-<h1 align="center">czlabs IO: A Forge of Technology for Purpose</h1>
-<h2 align="center">Blockchain solutions for global Needs.</h2>
+
+
+<h1 align="center">czlabs IO: Smart Solutions for your daily Success!</h1>
+<h2 align="center">Blockchain for global Needs.</h2>
 
 
 <p align="center">
@@ -24,7 +26,7 @@
 Welcome to czlabs IO, a fusion of skills and technology, global needs will find a team happy to serve! Our repository is mostly private. So if you require specific access to your project's repository please contact your liaison team member.
 
 ## What We Do?
-At Czlabs, we tackle global needs with our capabilities and wisdom, we do it by coding turn-key solutions for your needs.
+At czlabs, we tackle global needs with our capabilities and wisdom, we do it by coding turn-key solutions for your needs.
 
 ### General Web/dApp Services
 Embrace a secure digital identity. Our web/dApp services provide various authentication frameworks such as SMS/Mobile OTP, Ledger/Metamask along with Solana, Cardano, and other extension-based web3 wallets. We also offer CMS integration for autonomy with off-chain and on-chain security.
