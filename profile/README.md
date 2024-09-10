@@ -30,7 +30,7 @@ At Czlabs, we tackle global needs with our capabilities and wisdom, we do it by 
 Embrace a secure digital identity. Our web/dApp services provide various authentication frameworks such as SMS/Mobile OTP, Ledger/Metamask along with Solana, Cardano, and other extension-based web3 wallets. We also offer CMS integration for autonomy with off-chain and on-chain security.
 
 ### Assets Management Services
-Unlock the potential of your digital assets. Our services provide custodial and non-custodial solutions, supporting FT/NFT SPL self-claims and cross-chain ERC20s/BEP20s.
+Unlock the potential of your digital assets. Our services provide custodial and non-custodial solutions, supporting FT/NFT SPL Metaplex Core - self-claims and cross-chain ERC20s/BEP20s.
 
 ## Contact Us
 If you have any questions, please reach out to us at dev@czlabs.io or send a msg to us in X. (https://x.com/czlabs_io)
