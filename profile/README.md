@@ -21,7 +21,7 @@
 
 
 ## Introduction
-Welcome to Czlabs IO, a fusion of skills and technology, global needs will find a team happy to serve! Our repository is mostly private. So if you require specific access to your project's repository please contact your liaison team member.
+Welcome to czlabs IO, a fusion of skills and technology, global needs will find a team happy to serve! Our repository is mostly private. So if you require specific access to your project's repository please contact your liaison team member.
 
 ## What We Do?
 At Czlabs, we tackle global needs with our capabilities and wisdom, we do it by coding turn-key solutions for your needs.
@@ -31,9 +31,6 @@ Embrace a secure digital identity. Our web/dApp services provide various authent
 
 ### Assets Management Services
 Unlock the potential of your digital assets. Our services provide custodial and non-custodial solutions, supporting FT/NFT SPL self-claims and cross-chain ERC20s/BEP20s.
-
-### FIAT Bridge Services
-We offer solutions for FIAT/Blockchain payment mediums, ensuring swift and secure on-chain transactions. From on-chain and traditional product integration to service offerings, we provide a comprehensive suite of high scalable applications.
 
 ## Contact Us
 If you have any questions, please reach out to us at dev@czlabs.io or send a msg to us in X. (https://x.com/czlabs_io)
