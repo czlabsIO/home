@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff0482f0-736e-4056-872e-aab01355a671">
 
-
-<h1 align="center">czlabs IO: Smart Solutions for your daily Success!</h1>
+<h1 align="center">For your daily Success!</h1>
 <h2 align="center">Blockchain for global Needs.</h2>
 
 
